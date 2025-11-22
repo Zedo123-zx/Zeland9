@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Awesome Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Awesome Website</h1>
+    <p>Built entirely from my iPad 😎</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I’m learning how to build websites using HTML, CSS, and JavaScript!</p>
+    </section>
+
+    <section>
+      <h2>Click the Button</h2>
+      <button onclick="showMessage()">Click Me!</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 My Website | Made with ❤️ from my iPad</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
